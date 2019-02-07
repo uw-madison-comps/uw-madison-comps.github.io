@@ -3,7 +3,7 @@ name: UW-Madison comPS
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+#rouge: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://UW-Madison-comps.github.io
