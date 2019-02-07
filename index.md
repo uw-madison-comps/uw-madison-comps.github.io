@@ -2,5 +2,5 @@
 layout: page
 ---
 
-Join the Discussion: https://uwcomps.slack.com/
+Join the Discussion on Slack: <https://uwcomps.slack.com/>
 
