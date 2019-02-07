@@ -12,7 +12,7 @@ sass:
 paginate: 5
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: Computational Plant Science Group at the UW-Madison: research collaborations in the plant sciences
+#description: Computational Plant Science Group at the UW-Madison: research collaborations in the plant sciences
 ##Some frequently used keywords on your website
 #keywords: computation, coding, script, plant, science, biology, botany, data, research, analysis
 
