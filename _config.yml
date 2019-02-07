@@ -2,6 +2,7 @@
 name: UW-Madison comPS
 ##Markdown processor
 markdown: kramdown
+highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://UW-Madison-comps.github.io
@@ -13,7 +14,7 @@ paginate_path: "page:num"
 ##The website description (to be used in meta tags)
 description: Computational Plant Science Group at the UW-Madison: research collaborations in the plant sciences
 ##Some frequently used keywords on your website
-keywords: computation, coding, script, plant, science, biology, botany, data, research, analysis
+#keywords: computation, coding, script, plant, science, biology, botany, data, research, analysis
 
 ##define this for disqus comment support
 #disqus: forumname
