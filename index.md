@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 ---
 
-some text
+Join the Discussion: https://uwcomps.slack.com/
 
