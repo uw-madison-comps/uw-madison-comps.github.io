@@ -6,6 +6,6 @@ title: About
 ## About
 A group dedicated to collaborating on computational work across the plant sciences.  
 
-### Departments:
+### __Departments:__
 - Botany
 - Plant Pathology
