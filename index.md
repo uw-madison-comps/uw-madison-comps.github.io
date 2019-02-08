@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## Computational Plant Sciences  
-This group is dedicated to connecting plant scientists across the UW-Madison and support collaborations concerning computational research practices.  
+This group is dedicated to connecting plant scientists across the UW-Madison and supporting collaborations for computational research practices.  
 
 <br>
 
