@@ -10,6 +10,8 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 - Meets every Wednesday
 - Meet for collaborative projects
 
+ <br>
+ 
 **Monthly Meetings**
 - Organize events and workshops
 - Listen to guest lectures
