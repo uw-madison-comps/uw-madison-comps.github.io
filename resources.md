@@ -6,9 +6,10 @@ layout: page
 See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times and locations
 
 **Coding Club**  
+    - All plant scientists welcome!
+    - Casual space to work on script and programing projects 
     - Get feedback from other plant scientists  
-    - Meets every Wednesday  
-    - Meet for collaborative projects  
+    - Meets every Wednesday: see the **[Calendar](https://uw-madison-comps.github.io/calendar)**
  
 **Monthly Meetings**  
     - Organize events and workshops  
@@ -16,6 +17,9 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
     - Networking    
 
  <br>
+ 
+ ___________________________________________________________________________________________________________________________
+ 
  
 ## External Resources
 
