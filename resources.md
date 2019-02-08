@@ -16,7 +16,6 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 - Networking  
   
  <br>
- <br>
 ## External Resources
 
 [Data Science Hub](https://datascience.wisc.edu/)
@@ -31,8 +30,7 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 
 <br>
 <br>
-<br>
 
-### Need computational guidance but not working in plant science? Try ComBEE:  
+Need computational guidance but not working in plant science? Try ComBEE:    
 [Computational Biology, Ecology, and Evolution (ComBEE)](https://combee-uw-madison.github.io/studyGroup/) 
 
