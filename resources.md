@@ -14,8 +14,10 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 - Organize events and workshops
 - Listen to guest lectures
 - Networking  
-  
+
  <br>
+ <br>
+ 
 ## External Resources
 
 [Data Science Hub](https://datascience.wisc.edu/)
@@ -23,11 +25,14 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 - Guidance on analytical practices
 - Connect to computational resources on campus
 
+ <br>
+ 
 [CHTC: Center for High-Throughput Computing](http://chtc.cs.wisc.edu/check-quota.shtml)
 - scalable computing resources and services
 - email and office hour support for CHTC users
 - available to all UW-Madison researchers, free of charge!
 
+<br>
 <br>
 <br>
 
