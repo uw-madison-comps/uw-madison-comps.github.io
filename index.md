@@ -19,4 +19,5 @@ Events and meetings: [Calendar](https://uw-madison-comps.github.io/calendar)
     * Forest and Wildlife Ecology  
     * Plant Biology  
     * The Nelson Institute  
-    * Soil Science  
+    * Soil Science   
+
