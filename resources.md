@@ -17,7 +17,6 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
   
  <br>
  <br>
- <br>
 ## External Resources
 
 [Data Science Hub](https://datascience.wisc.edu/)
