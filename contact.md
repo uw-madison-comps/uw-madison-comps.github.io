@@ -4,7 +4,7 @@ layout: page
 
 ## Contact Us
 
-### **To give feedback, [Click here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)** 
+### **To give feedback: [Click here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)** 
 - post suggestions on the "Issues" tab
 - check "in progress" additions to the website
 
