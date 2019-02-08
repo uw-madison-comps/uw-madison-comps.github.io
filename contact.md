@@ -9,6 +9,6 @@ layout: page
 - check "in progress" additions to the website
 
 
-Computational Support: **Steve Goldstein** (sgoldstein[at]wisc.edu)  
-Questions and Concerns: **Sam Harrow** (harrow2[at]wisc.edu)  
+Computational Support:&nbsp; &nbsp; **Steve Goldstein** sgoldstein[at]wisc.edu  
+Questions and Concerns:&nbsp;&nbsp;**Sam Harrow** harrow2[at]wisc.edu
 
