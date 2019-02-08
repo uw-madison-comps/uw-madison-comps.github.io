@@ -14,7 +14,8 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 **Monthly Meetings**  
     - Organize events and workshops  
     - Listen to guest lectures  
-    - Networking    
+    - Networking opportunities
+    - See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times and locations
 
  <br>
  
