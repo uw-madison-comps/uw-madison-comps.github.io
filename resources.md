@@ -2,7 +2,21 @@
 layout: page
 ---
 
-## Resources
+## ComPS Resources  
+See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times and locations
+
+Coding Club  
+- Get feedback from other plant scientists
+- Meets every Wednesday
+- Meet for collaborative projects
+
+Monthly Meetings
+- Organize events and workshops
+- Listen to guest lectures
+- Networking  
+  
+  
+## External Resources
 
 [Data Science Hub](https://datascience.wisc.edu/)
 - Computational workshops and training
