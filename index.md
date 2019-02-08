@@ -12,7 +12,7 @@ Events and meetings: [Calendar](https://uw-madison-comps.github.io/calendar)
 
 <br>
 
-### __Departments:__  
-- Botany
-- Plant Pathology
+### __Departments:__    
+  - Botany
+  - Plant Pathology
 
