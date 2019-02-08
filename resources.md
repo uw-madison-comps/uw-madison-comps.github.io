@@ -3,7 +3,6 @@ layout: page
 ---
 
 ## ComPS Resources  
- ___________________________________________________________________________________________________________________________  
 **Coding Club**  
     - All plant scientists welcome!  
     - Casual space to work on script and programing projects   
@@ -17,13 +16,9 @@ layout: page
     - See the [Calendar](https://uw-madison-comps.github.io/calendar) for times and locations  
 
  <br>
- 
-
- 
+ ____________________________________________________________________________________________________________________________   
  
 ## External Resources    
-___________________________________________________________________________________________________________________________  
-
 [Data Science Hub](https://datascience.wisc.edu/)  
     - Computational workshops and training  
     - Guidance on analytical practices  
