@@ -20,9 +20,9 @@ See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times an
 ## External Resources
 
 [Data Science Hub](https://datascience.wisc.edu/)  
-     * Computational workshops and training  
-     * Guidance on analytical practices  
-     * Connect to computational resources on campus  
+* Computational workshops and training  
+* Guidance on analytical practices  
+* Connect to computational resources on campus  
  
 [CHTC: Center for High-Throughput Computing](http://chtc.cs.wisc.edu/check-quota.shtml)  
      * Scalable computing resources and services  
