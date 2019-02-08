@@ -2,11 +2,12 @@
 layout: page
 ---
 
-## Contact Us
+# Contact Us
 
-### **To give feedback: [Click here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)** 
-- post suggestions on the "Issues" tab
-- check "in progress" additions to the website
+
+### **To give feedback: [post here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)** 
+- post your own suggestions
+- check "In Progress" to see pending work on the website
 
 
 Computational Support:&nbsp; &nbsp; **Steve Goldstein** sgoldstein[at]wisc.edu  
