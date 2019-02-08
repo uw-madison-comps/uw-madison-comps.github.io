@@ -5,7 +5,7 @@ markdown: kramdown
 highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://UW-Madison-comps.github.io
+base_url: http://uw-madison-comps.github.io
 sass:
   sass_dir: _sass
   style: :compressed
