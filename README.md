@@ -1,45 +1,15 @@
-# Bitwiser Jekyll theme.
-A minimalist Jekyll theme that puts focus on content.
-
-### For subdirectory blog support, checkout [subdirectory](https://github.com/brijeshb42/bitwiser/tree/subdirectory) branch.
-
 ## Features
 
 * Clean, simple and responsive layout
-* Code formatting.
-* Sitemap included.
-* Google analytics.
-* Disqus commenting (Loaded lazily).
-* Share post to facebook and twitter.
-* Robots.txt included.
-* Custom 404 error page.
-* Clean material like layout.
-* Awesome navigation menu on small screens.
+* Navigation menu separates info onto different pages
 
 Theme website: http://bitwiser.in/bitwiser/
-
 Demo post: http://bitwiser.in/bitwiser/demo.html
-
 Usage: [http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html](http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html)
-
-Download latest Zip: [Here](http://goo.gl/iC85jv)
-
-Or browse releases: [Releases](https://github.com/brijeshb42/bitwiser/releases)
-
-To get started with this theme, read the [usage guide](http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html). After that start creating post files in the ```_posts``` directory and push your changes to github.
-
-Report issues: [Issues](https://github.com/brijeshb42/bitwiser/issues/new)
-
-If you are using this theme, do not forget to :star: this repo or tweet [@brijeshb42](https://twitter.com/brijeshb42).
-
-Pull requests are also welcome :thumbsup:.
 
 
 ## Getting Started
-
-(Assuming you know what Jekyll and Github pages are.)
-
-* Download this theme's zip file from [here](http://goo.gl/iC85jv) or clone the repository using ```git clone https://github.com/brijeshb42/bitwiser.git```. If you are cloning, then make sure to delete the ```gh-pages``` branch as it includes the files for the theme website.
+* **Note**: you can edit the page directly from Github site without having to download anything
 
 * Install ```ruby``` and then do ```gem install jekyll```. This theme uses the latest ```jekyll``` version. So if you already have it installed, then upgrade it.
 
