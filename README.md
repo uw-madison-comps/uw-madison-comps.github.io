@@ -3,8 +3,8 @@
 * Clean, simple and responsive layout
 * Navigation menu separates info onto different pages
 
-Theme website: http://bitwiser.in/bitwiser/
-Demo post: http://bitwiser.in/bitwiser/demo.html
+Theme website: http://bitwiser.in/bitwiser/  
+Demo post: http://bitwiser.in/bitwiser/demo.html  
 Usage: [http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html](http://bitwiser.in/2014/09/10/bitwiser-jekyll-theme.html)
 
 
