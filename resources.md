@@ -3,7 +3,6 @@ layout: page
 ---
 
 ## ComPS Resources  
-See the **[Calendar](https://uw-madison-comps.github.io/calendar)** for times and locations
 
 **Coding Club**  
     - All plant scientists welcome!  
