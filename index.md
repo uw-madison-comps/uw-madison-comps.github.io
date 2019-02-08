@@ -12,7 +12,7 @@ Events and meetings: [Calendar](https://uw-madison-comps.github.io/calendar)
 
 <br>
 
-### __Departments and Programs:__  
+### Departments and Programs:  
     * Botany  
     * Plant Pathology  
     * Plant Breeding and Genetics  
