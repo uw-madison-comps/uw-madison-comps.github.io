@@ -12,12 +12,13 @@ Events and meetings: [Calendar](https://uw-madison-comps.github.io/calendar)
 
 <br>
 
-### Departments and Programs:
+### __Departments and Programs:__
     - Botany  
     - Plant Pathology  
     - Plant Breeding and Genetics  
     - Forest and Wildlife Ecology  
     - Plant Biology  
     - The Nelson Institute  
-    - Soil Science   
+    - Soil Science
+
 
