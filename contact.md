@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Contact Us
+## Contact Us
 
 
 ### **To give feedback: [post here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)** 
