@@ -6,6 +6,7 @@ layout: page
 
 Science Questions and Discussion : [Check out our Slack forum](https://uwcomps.slack.com/)
 
+<br>
 
 #### **To give feedback about comPS or our website: [post here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)**   
 - post your own suggestions  
