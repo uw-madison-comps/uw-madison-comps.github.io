@@ -7,7 +7,7 @@ layout: page
     - All plant scientists welcome!  
     - Casual space to work on script and programing projects   
     - Get feedback from other plant scientists    
-    - Meets Wednesdays in Moore Hall 2:30pm-5pm: [(Calendar)](https://uw-madison-comps.github.io/calendar)
+    - Meets Wednesdays in Moore Hall rm 346 from 2:30pm-5pm: [(Calendar)](https://uw-madison-comps.github.io/calendar)
  
 **Monthly Meetings**   
     - Organize events and workshops    
