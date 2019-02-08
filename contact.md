@@ -8,8 +8,8 @@ Science Questions and Discussion : [Check out our Slack forum](https://uwcomps.s
 
 
 #### **To give feedback about comPS or our website: [post here](https://github.com/uw-madison-comps/uw-madison-comps.github.io/issues)**   
-    * post your own suggestions  
-    * check "In Progress" to see pending work on the website  
+- post your own suggestions  
+- check "In Progress" to see pending work on the website  
 
 <br>
 
