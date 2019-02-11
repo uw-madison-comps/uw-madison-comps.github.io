@@ -20,5 +20,7 @@ Events and meetings: [Calendar](https://uw-madison-comps.github.io/calendar)
    - Plant Biology  
    - The Nelson Institute  
    - Soil Science
+   - Horticulture
+   - Agronomy
 
 
