@@ -4,7 +4,7 @@ layout: page
 
 ## ComPS Resources  
 **Coding Club**  
-    - All plant scientists welcome!  
+    - All plant scientists welcome! Just stop by. 
     - Casual space to work on script and programing projects   
     - Get feedback from other plant scientists    
     - Meets [Wednesdays in Moore Hall rm 346 from 2:30pm-5pm](https://uw-madison-comps.github.io/calendar)
@@ -27,7 +27,7 @@ layout: page
 [CHTC: Center for High-Throughput Computing](http://chtc.cs.wisc.edu/check-quota.shtml)  
     - Scalable computing resources and services  
     - Evailable to all UW-Madison researchers, free of charge!  
-    - Email support for quick feedback
+    - Email support for quick feedback  
     - [Office Hours](https://goo.gl/maps/f8HCLCyJDE42): Tues (3-4:30pm), Wed (9:30am-11:30am), Thurs (3-4:30pm)
 
 <br>
