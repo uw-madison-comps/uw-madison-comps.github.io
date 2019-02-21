@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## ComPS Resources  
-**Coding Club**  
+**Coding Study Group**  
     - All plant scientists welcome! Just stop by!  
     - Casual space to work on script and programing projects   
     - Get feedback from other plant scientists    
