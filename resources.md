@@ -11,9 +11,8 @@ layout: page
     <li>Meets [Wednesdays in Moore Hall rm 346 from 2:30pm-5pm](https://uw-madison-comps.github.io/calendar)</li>
 </ul> 
 
- <br>
- <br>
- 
+<br>
+
 **Monthly Meetings**   
 <ul> 
     <li>Organize events and workshops </li>   
@@ -32,13 +31,13 @@ layout: page
     <li>Connect to computational resources on campus  </li>
     <li><b><ins>Office Hours</ins></b> [at the WID](https://goo.gl/maps/f8HCLCyJDE42): 
     <ul>
-        -Wed (9:30am-11:30am)  </li>
-        -Thurs (3-5pm)  </li>  
+        <li>Wed (9:30am-11:30am)  </li>
+        <li>Thurs (3-5pm)  </li>  
     </ul>
+    </li>  
 </ul>
  
- <br>
- <br>
+<br>
  
 **[CHTC: Center for High-Throughput Computing](http://chtc.cs.wisc.edu/check-quota.shtml)**  
 <ul>
@@ -49,8 +48,9 @@ layout: page
     <ul>
        <li>Tues (3-4:30pm)</li> 
        <li>Wed (9:30am-11:30am)</li> 
-       <li>Thurs (3-4:30pm)</li>  
+       <li>Thurs (3-4:30pm)</li>    
     </ul>
+    </li>  
 </ul>
 
 <br>
