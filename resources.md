@@ -34,7 +34,7 @@ layout: page
 - Scalable computing resources and services  
 - Evailable to all UW-Madison researchers, free of charge!  
 - Email support for quick feedback  
-- Office Hours</ins></b> [at the WID](https://goo.gl/maps/f8HCLCyJDE42):  
+- Office Hours [at the WID](https://goo.gl/maps/f8HCLCyJDE42):  
     + Tues (3-4:30pm)  
     + Wed (9:30am-11:30am)  
     + Thurs (3-4:30pm)     
